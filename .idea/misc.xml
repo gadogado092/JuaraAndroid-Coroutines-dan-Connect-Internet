@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LATITUDE/AndroidStudioProjects/JuaraAndroid Connect Internet/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/LATITUDE/AndroidStudioProjects/JuaraAndroid Connect Internet/app/src/main/res/layout/fragment_overview.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LATITUDE/AndroidStudioProjects/JuaraAndroid Connect Internet/app/src/main/res/layout/grid_view_item.xml" value="0.1" />
       </map>
     </option>
   </component>
